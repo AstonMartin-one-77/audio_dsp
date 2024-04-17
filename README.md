@@ -1,1 +1,2 @@
-# audio_graph_dsp
+# audio_dsp
+Optimized Audio DSP library
